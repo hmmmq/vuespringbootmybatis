@@ -8,7 +8,7 @@ spring:
 
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/qualitydb?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/commentdb?useSSL=false&serverTimezone=UTC
     username: root
     password: 123
 
